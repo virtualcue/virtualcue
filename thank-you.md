@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: Virtual Cue - Thanks for your message
 ---
-## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+## Thank you for your message!
+We are delighted to hear from you. You can expect to receive an answer soon.
 
 Have a nice day!

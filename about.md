@@ -1,27 +1,25 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Virtual Cue LLC - Our Staff
+description: Biographies for the staff of Virtual Cue LLC.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About our Staff
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### Molly Herson - Director
+<span class="image left"><img src="{{ "/images/Molly.jpeg" | absolute_url }}" alt="" /></span>
+Molly Herson is a junior arts administration major at Elon University with a minor in theatre. She graduated from Walt Whitman high school in 2019. Molly has lots of experience on and off stage. She has performed on stage with Ovations Theatre, Act Two @ Levine, and countless high school shows. Some of her favorite shows include Next To Normal (Diana), Hair (Jeanie), Les Mis (Eponine), and The Wild Party (Kate). She has also worked as an assistant stage manager with Ovations Theatre and was a theatre counselor at Bannockburn elementary school for 3 years. Molly also performed at the Horatio Alger awards at Constitution Hall and sang with artists such as Laura Osnes, Garett Clayton, Betsy Wolfe, and many others. Molly is currently the President of her college a cappella group Twisted Measure and Production Manager at Ovations Theatre. Molly also had the opportunity to perform in the Edinburgh Fringe Festival in Scotland in 2017 as Shelley in Bat Boy the musical. Molly is so excited to bring Virtual Cue in person!
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+### Ian Coursey - Music Director
+<span class="image left"><img src="{{ "/images/Ian.jpg" | absolute_url }}" alt="" /></span>
+Ian Coursey is an incoming sophomore at the University of Michigan with the musical theatre class of 2024! His love for theatre started when he was very young and he is ecstatic to pass on his enthusiasm and passion for the arts to young artists! Ian is an alumnus of The Young Artists of America, Ovations Theatre, Good Counsel Theatre Company and Lumina Studio Theatre! He has appeared on BBC’s Logan High and the recent graduation special “Graduate Together” that featured LeBron James, Barack Obama and Ben Platt! He has performed at venues such as Carnegie Hall,
+The Kennedy Center and The Strathmore Music Center! He has had the opportunity to perform with legendary artists such as Kristin Chenoweth, Shoshana Bean and Matthew Morrison. Some of his favorite credits include Les Mis (Jean ValJean), Cabaret (The Emcee), Catch Me If You Can (Frank Abagnale Junior), Spring Awakening (Moritz), The Music Man (Harold Hill) along with many more! Ian is thrilled to be a part of Virtual Cue!
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### Emmy Lane - Choreographer
+<span class="image left"><img src="{{ "/images/Emmy.jpg" | absolute_url }}" alt="" /></span>
+Emmy Lane is a junior at the University of Southern California majoring in theater with an acting emphasis and a minor in choreography for the stage and screen. She is the marketing manager for the Break Through hip hop dance team at USC. She graduated from Walt Whitman high school in 2019. Emmy was a part of Act Two @ Levine and The Free Theatre. At The Free Theatre she was a co choreographer for their productions of Mamma Mia and In the Heights. She has performed at Carnegie Hall for the New York Pops 32-35th birthday gala honoring artists such as Kelli O’Hara and Alan Menken. She has taken dance at studios such as Joy of Motion and C-Unit. Some of her favorite shows include Mamma Mia (Donna) and You’re a Good Man Charlie Brown (Sally). Emmy also had the opportunity to perform in the Edinburgh Fringe Festival in Scotland in 2017 as Ruthie in Bat Boy the musical. Emmy can't wait to bring Virtual Cue in person!

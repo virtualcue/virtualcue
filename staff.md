@@ -23,3 +23,20 @@ The Kennedy Center and The Strathmore Music Center! He has had the opportunity t
 ### Emmy Lane - Choreographer
 <span class="image left"><img src="{{ "/images/Emmy.jpg" | absolute_url }}" alt="" /></span>
 Emmy Lane is a junior at the University of Southern California majoring in theater with an acting emphasis and a minor in choreography for the stage and screen. She is the marketing manager for the Break Through hip hop dance team at USC. She graduated from Walt Whitman high school in 2019. Emmy was a part of Act Two @ Levine and The Free Theatre. At The Free Theatre she was a co choreographer for their productions of Mamma Mia and In the Heights. She has performed at Carnegie Hall for the New York Pops 32-35th birthday gala honoring artists such as Kelli O’Hara and Alan Menken. She has taken dance at studios such as Joy of Motion and C-Unit. Some of her favorite shows include Mamma Mia (Donna) and You’re a Good Man Charlie Brown (Sally). Emmy also had the opportunity to perform in the Edinburgh Fringe Festival in Scotland in 2017 as Ruthie in Bat Boy the musical. Emmy can't wait to bring Virtual Cue in person!
+
+
+### Jack Rosenberg - Scenic Designer
+<span class="image left"><img src="{{ "/images/Jack.jpg" | absolute_url }}" alt="" /></span>
+Jack Rosenberg is stoked to be a part of the Virtual Cue team! Jack has performed in the DC area for years with Ovations Theatre, in such roles as the Emcee (Cabaret); Melchior (Spring Awakening); Dan (Next to Normal); Claude (Hair); Mr. Mushnik (Little Shop); Javert (Les Miz); Tommy (Carrie); Leo Frank (Parade); JD (Heathers); Lumiere (Beauty and the Beast), Tobias (Sweeney); and Cat in the Hat (Seussical). Jack is currently a student at the University of Michigan, majoring in Architecture, and the History of Art with a minor in Set Design. Jack loves working as an educator, namely a Hebrew teacher/ B’nai Mitzvah tutor, and an Inclusion Facilitator/Special Educator. He is beyond thrilled to work with this wonderful company and team!
+
+
+### Charlie Freedman - Audio Engineer
+<span class="image left"><img src="{{ "/images/Charlie.jpg" | absolute_url }}" alt="" /></span>
+Charlie Freedman is a musician and audio engineer with experience in the New York City music scene and higher education. Charlie holds a Bachelor of Science (B.S.) in Music Production & Recording Arts from Elon University (2020), where he also worked as both a studio manager and the Music Production and Recording Arts department A/V coordinator. Charlie has engineered and mixed for artists like Laura Galindo, The Ned Goold Quartet, Ed Schuller, and helping Virtual Cue bring their magic to a physical space this summer is something he’s very much looking forward to!
+<br><br><br><br>
+
+
+### Fin McCahil - Counselor
+<span class="image left"><img src="{{ "/images/Fin.jpg" | absolute_url }}" alt="" /></span>
+Fin McCahill is thrilled to join the Virtual Cue team as a Counselor. Fin is a rising Junior at the Metropolitan School of the Arts in Alexandria, VA but he got his start at Bannockburn Elementary School, Adventure Theatre, Ovations and Pyle Stages. He is a full time Academy student who aspires to follow his dreams through college and a professional life in the arts that he hopes will include a rich mix of music, acting, performing and working with kids.
+<br><br><br><br>

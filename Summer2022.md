@@ -8,5 +8,5 @@ sitemap:
     changefreq: weekly
 ---
 # Summer 2022
-### [Informational Brochure (pdf)](/images/Summer2022/brochure.pdf)
+### [Informational Brochure (pdf)](https://github.com/virtualcue/virtualcue.github.io/raw/gh-pages/images/Summer2022/Brochure.pdf)
 ### [Register Here](https://docs.google.com/forms/d/1Y7TseKJKCslAlxpa8rS-_aArYezaU2hkRbNxi7WNxHs/viewform?edit_requested=true#responses)

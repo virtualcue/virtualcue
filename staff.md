@@ -24,7 +24,7 @@ Emmy Lane is a senior at the University of Southern California majoring in theat
 Jack Rosenberg is stoked to be a part of the Virtual Cue team! Jack is currently a Junior at the University of Michigan, pursuing a BS in Architecture and BA in the History of Art. Jack has performed in the DC area for years with Ovations Theatre, in such roles as the Emcee (Cabaret); Melchior (Spring Awakening); Dan (Next to Normal); Claude (Hair); Mr. Mushnik (Little Shop); Javert (Les Miz); Tommy (Carrie); Leo Frank (Parade); JD (Heathers); Lumiere (Beauty and the Beast), Tobias (Sweeney); and Cat in the Hat  Seussical). At U-M, Jack started In the Round Productions, a student-run theatre organization dedicated to LGBTQIA+ stories and storytellers. Jack loves working as an educator, namely a Hebrew teacher/ B’nai Mitzvah tutor, and an Inclusion Facilitator/Special Educator. They are beyond thrilled to be back with this wonderful company and team!
 
 
-### Fin McCahil (he/him) - Counselor
+### Fin McCahil (he/him) - Music Director
 <span class="image left"><img src="{{ "/images/Staff/Fin.jpg" | absolute_url }}" alt="" /></span>
 Fin McCahill is thrilled to be back with the Virtual Cue team as a Counselor. Fin is a senior at the Metropolitan School of the Arts in Alexandria, VA but he got his start at Bannockburn Elementary School, Adventure Theatre, Ovations and Pyle Stages. He is a full time Academy student who aspires to follow his dreams through college and professional life in the arts that he hopes will include a rich mix of music, acting, performing and working with kids.
 <br><br><br><br><br><br>
@@ -34,3 +34,15 @@ Fin McCahill is thrilled to be back with the Virtual Cue team as a Counselor. Fi
 <span class="image left"><img src="{{ "/images/Staff/Sam.jpeg" | absolute_url }}" alt="" /></span>
 Sam is a sophomore at Miami University with a major in sport’s leadership and management and a minor in history. Sam has been performing for years within the community and is so excited to finally be working behind the scenes and pass on his love for theater to future generations. He is so delighted to be apart of the Virtual Cue family!
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+### Sienna (Sisi) Manatos (she/her) - Counselor
+<span class="image left"><img src="{{ "/images/Staff/Sienna.jpeg" | absolute_url }}" alt="" /></span>
+Sienna (Sisi) Manatos is overjoyed to be joining the Virtual Cue team! Sienna is a rising senior at the Edmund Burke school in Washington DC. She has experience performing with Whitman drama, Ovations theater and Long Lake Camp. Some of Sienna's favorite credits include; Spring Awakening (Wendla), Les Miserables (Eponine), Little Shop of Horrors (Audrey II), and Rent (Joanne). She spends her free time doing volunteer work with Make-A-Wish, Childhelp, and the Outdoor Nursery School. Sienna is so excited to be a part of the incredible work that Virtual Cue does!!
+<br><br><br><br>
+
+
+### Kassidy Kepner (she/her) - Assistant Choreographer
+<span class="image left"><img src="{{ "/images/Staff/Kassidy.jpeg" | absolute_url }}" alt="" /></span>
+Kassidy began performing in the sixth grade. Some of her favorite roles include Maureen (Rent), Saint Jimmy (American Idiot), Madame Thenardier (Les Miserables), and Little Sally (Urinetown). Over the past two years Kassidy has choreographed for Ovations Theatre and elementary schools In the Bethesda area. Kassidy is ecstatic to be welcomed to this amazing team!
+<br><br><br><br><br>

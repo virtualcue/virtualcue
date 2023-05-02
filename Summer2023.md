@@ -8,5 +8,12 @@ sitemap:
     changefreq: weekly
 ---
 # Summer 2023
-### [Informational Brochure (pdf)](https://github.com/virtualcue/virtualcue.github.io/raw/gh-pages/images/Summer2023/Brochure.pdf)
 ### [Register Here](https://forms.gle/bdGPDrbLcB7q1qsc7)
+
+<object data="../images/Summer2023/Brochure.pdf" type="application/pdf" width="100%" height="800px">
+    <embed src="../images/Summer2023/Brochure.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/virtualcue/virtualcue.github.io/raw/gh-pages/images/Summer2023/Brochure.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+#### [Trouble viewing this PDF?](https://github.com/virtualcue/virtualcue.github.io/raw/gh-pages/images/Summer2023/Brochure.pdf)

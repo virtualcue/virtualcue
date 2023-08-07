@@ -1,9 +1,10 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/staff/' %} active {% endif %}"><a href="{{ "/staff/" | absolute_url }}">Our Staff</a></li>
+    <li class="{% if page.url contains '/2324Season/' %} active {% endif %}"><a href="{{ "/2324Season/" | absolute_url }}">2023/24 Season</a></li>
+  <li class="{% if page.url contains '/auditions/' %} active {% endif %}"><a href="{{ "/auditions/" | absolute_url }}">Auditions</a></li>
   <li class="{% if page.url contains '/tickets/' %} active {% endif %}"><a href="{{ "/tickets/" | absolute_url }}">Tickets</a></li>
   <li><a href="https://gofund.me/56d017ff">Donate</a></li>
-  <li class="{% if page.url contains '/Summer2023/' %} active {% endif %}"><a href="{{ "/Summer2023/" | absolute_url }}">Summer 2023</a></li>
   <li class="{% if page.url contains '/pastproductions/' %} active {% endif %}"><a href="{{ "/pastproductions/" | absolute_url }}">Past Productions</a></li>
 <!--   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li> -->
 </ul>

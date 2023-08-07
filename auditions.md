@@ -8,9 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 # Auditions
-## [Carrie: The Musical - Audition Signup](https://www.signupgenius.com/go/10c0e4cadab28a6fdc43-carrie#/)
-## [Into the Woods, Jr. - Audition Signup](https://www.signupgenius.com/go/10c0e4cadab28a6fdc43-into#/)
+## [Carrie: The Musical - Audition Signup & Schedule](https://www.signupgenius.com/go/10c0e4cadab28a6fdc43-carrie#/)
+## [Into the Woods, Jr. - Audition Signup & Schedule](https://www.signupgenius.com/go/10c0e4cadab28a6fdc43-into#/)
 
 ### Auditionees need to prepare 16-32 bars of a musical theater song of their choice.
-
-### Auditions schedules coming soon.
